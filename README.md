@@ -1,16 +1,13 @@
-## Hi there 👋
+### hi! i'm qwool 🕊️
+i code for fun, if you're writing something beautiful - reach out  
 
-<!--
-**qwool/qwool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stack:**  
+```neovim``` - for code and notes  
+```go```, ```shell languages``` - for anything that runs on the computer  
+```alpinejs and htmx```, ```go/template```, ```pocketbase``` - for the web  
 
-Here are some ideas to get you started:
+**things im a fan of:**  
+```music``` (i make it)  
+```simplicity``` (i do my hardest to reduce stuff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**letterbox:** qwool@proton.me
