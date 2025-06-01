@@ -1,8 +1,9 @@
-i code for fun, if you're writing something beautiful - reach out  
+dont look at repos that have "WIP" in the description pls
 
 **stack:**  
 `neovim` - code and notes  
 `go`, `shell languages` - tools  
+`zig` - i really like it
 `fish`, `bash` - i use the former, script for the latter  
 `python` - great learning tool for non-language-specific problems  
 
@@ -13,5 +14,3 @@ a complicated field i've spent a bit of time in. i've tried and learned a few th
 `htmx`, `alpine.js` - simple projects
 `react` and `preact` - i know a bit of it
 `react native` - a cross-platform solution  
-
-**email:** qwool@proton.me
