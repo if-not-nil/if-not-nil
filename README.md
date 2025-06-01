@@ -1,5 +1,3 @@
-dont look at repos that have "WIP" in the description pls
-
 **stack:**  
 `neovim` - code and notes  
 `go`, `shell languages` - tools  
