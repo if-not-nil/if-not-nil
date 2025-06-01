@@ -1,7 +1,7 @@
 **stack:**  
 `neovim` - code and notes  
 `go`, `shell languages` - tools  
-`zig` - i really like it  
+`zig` - low level. i've also been learning `c`  
 `fish`, `bash` - i use the former, script for the latter  
 `python` - great learning tool for non-language-specific problems  
 
