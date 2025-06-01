@@ -8,7 +8,7 @@
 **web development:**  
 a complicated field i've spent a bit of time in. i've tried and learned a few things:  
 `go` - backend. i opt for extending `pocketbase` for simple projects  
-`sveltekit` - frontend framework, for complex projects  
-`htmx`, `alpine.js` - simple projects
-`react` and `preact` - i know a bit of it
+`sveltekit` - frontend framework, for complex projects   
+`htmx`, `alpine.js` - simple projects  
+`react` and `preact` - i know a bit of it  
 `react native` - a cross-platform solution  
