@@ -1,14 +1,14 @@
 **stack:**  
 `neovim` - code and notes  
-`go`, `shell languages` - tools  
-`zig` - low level. i've also been learning `c`  
-`fish`, `bash` - i use the former, script for the latter  
-`python` - great learning tool for non-language-specific problems  
+`go`, `zig` - tools  
+`zig`, `c` - low level  
+`bash` - its way better than anything else i've used when paired with [ble.sh](https://github.com/akinomyoga/ble.sh)  
+`lua` - for [anything it can possibly do](https://if-not-nil.github.io/no-the-moon/) with or without custom c libraries  
+`godot`, `zig`, `lua` - gamedev  
 
-**web development:**  
-a complicated field i've spent a bit of time in. i've tried and learned a few things:  
-`go` - backend. i opt for extending `pocketbase` for simple projects  
-`sveltekit` - frontend framework, for complex projects   
-`htmx`, `alpine.js` - simple projects  
-`react` and `preact` - i know a bit of it  
-`react native` - a cross-platform solution  
+**web:**  
+`go` - backend  
+`svelte` - for complex things  
+`htmx`, `alpine.js` - for simple ones  
+`react` and `preact` - when it's not my project  
+`react native` - cross-platform  
