@@ -1,3 +1,1 @@
-mr zozin disciple
-
-proud computer owner
+tsoding disciple & proud computer owner
