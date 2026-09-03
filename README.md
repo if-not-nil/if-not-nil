@@ -1,3 +1,5 @@
+lung notification aka lung aka Lung N. aka if-not-nil
+
 ```rb
 {"writing"}                             #   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣏⡦⠤⣤⠽⠤⡄
   |> _:push(revo.version()):join(' ')   #   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠤⠣⢈⠇⠀⠁⣠⡿⡄
