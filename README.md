@@ -1,4 +1,4 @@
-lung notification aka lung aka Lung N. aka if-not-nil
+lung notification, aka lung, aka Lung N., aka if-not-nil
 
 ```rb
 {"writing"}                             #   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣏⡦⠤⣤⠽⠤⡄
